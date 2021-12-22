@@ -1,4 +1,5 @@
 <?php
+ini_set('display_errors',true);
 /**
  * The base configuration for WordPress
  *
@@ -20,13 +21,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'jitbawrl_wp114' );
+define( 'DB_NAME', 'ashoova' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'namu' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'Namu@2020' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
